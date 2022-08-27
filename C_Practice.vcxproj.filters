@@ -65,5 +65,11 @@
     <ClCompile Include="예제3-8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="예제3-9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="예제3-10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
