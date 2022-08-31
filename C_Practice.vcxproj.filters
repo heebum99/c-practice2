@@ -155,5 +155,8 @@
     <ClCompile Include="예제6-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="확인6-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
