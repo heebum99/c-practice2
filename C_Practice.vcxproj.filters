@@ -230,5 +230,8 @@
     <ClCompile Include="예제9-7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="예제9-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
