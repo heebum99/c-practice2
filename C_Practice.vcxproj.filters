@@ -239,5 +239,8 @@
     <ClCompile Include="도전실전예제9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="예제10-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
