@@ -142,6 +142,7 @@
     <ClInclude Include="khb.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="도전실전예제10.c" />
     <ClCompile Include="도전실전예제4.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -178,7 +179,9 @@
     <ClCompile Include="예제10-6.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="예제10-7.c" />
+    <ClCompile Include="예제10-7.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="예제2-1.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
